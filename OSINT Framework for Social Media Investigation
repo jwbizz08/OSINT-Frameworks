@@ -1,0 +1,19 @@
+Objective: Gather intelligence from social media platforms for threat analysis, digital footprinting, and profiling.
+
+Step 1: Profile Identification
+
+Google Dorking: Use advanced search operators to find specific profiles or mentions across multiple platforms.
+
+Social Media Search Tools: Use Social Searcher and Followerwonk to find relevant accounts and user activity.
+
+Step 2: Analyze User Activity and Engagement
+
+Social Media Monitoring Tools: Track users’ activity, sentiment, and engagement using tools like Hootsuite and Brandwatch.
+
+Step 3: Investigate Sentiment & Public Influence
+
+Sentiment Analysis Tools: Use tools like MonkeyLearn and Lexalytics to analyze public sentiment and detect patterns in social media posts.
+
+Step 4: Investigate Connections and Group Associations
+
+Graph Analysis Tools: Visualize and analyze connections between individuals and groups using Maltego, Gephi, and NodeXL.

@@ -1,0 +1,110 @@
+Objective: Collect, analyze, and track cyber threats, attack indicators, and threat actors, focusing on malware, vulnerabilities, infrastructure, and threat actor behavior.
+
+Step 1: Identify the Target and Scope of Investigation
+
+Before starting the investigation, it's critical to define what you're investigating (e.g., a specific organization, hacker group, vulnerability, or incident). This will guide your data collection and analysis.
+
+Google Search: Begin with a general search to find any available information about the target.
+
+Google SearchShodan: Search for internet-facing devices, servers, and infrastructures that belong to the target or are related to the threat.
+
+WHOIS Lookup: Investigate domain registrations to see who owns or controls the target's domain or infrastructure.
+
+Censys: Search for exposed devices or servers with security issues related to the target.
+
+VirusTotal: Check if any associated domain, IP, or file hash has been flagged for malicious behavior or known exploits.
+
+Step 2: Gather Domain and IP Address Information
+
+Passive DNS Lookup: Use passive DNS services to gather historical domain information, resolve IP addresses, and identify previous associations with other entities.
+
+IPinfo.io: Look up IP addresses linked to the target to analyze geolocation, ISP, and ownership details.
+
+DomainTools: Find historical data and domain registrations associated with the target organization.
+
+Google Dorking: Use advanced search operators to uncover specific IP addresses, vulnerable servers, or documents related to the target.
+
+Step 3: Identify and Analyze Malware Indicators
+
+If the investigation centers around malware or cyber-attacks, identifying malicious software and analyzing it is key to understanding the threat.
+
+VirusTotal: Search for malware hashes (e.g., MD5, SHA256) or URLs that have been flagged as malicious.
+
+Hybrid Analysis: Analyze submitted malware files to see their behavior and associated indicators of compromise (IoCs).
+
+MalwareBazaar: Search for malware samples or track emerging malware trends.
+
+Any.run: Use sandbox environments to analyze suspicious files in a controlled, isolated environment.
+
+Step 4: Investigate Vulnerabilities and Exploits
+
+Understanding vulnerabilities in systems or software is crucial for identifying potential targets of exploitation by threat actors.
+
+Exploit-DB: Search for known vulnerabilities and exploits that are publicly available and could be used by cybercriminals.
+
+CVE Details: Look for CVEs (Common Vulnerabilities and Exposures) that are tied to the target’s systems, software, or hardware.
+
+Shodan: Search for specific vulnerabilities in publicly exposed devices or servers that may be vulnerable to exploitation.
+
+OpenVAS: Use open-source vulnerability scanners to identify weaknesses in the target's infrastructure.
+
+Step 5: Track Threat Actor Behavior
+
+Identify and track the activities, tactics, techniques, and procedures (TTPs) of cyber threat actors.
+
+Twitter & Telegram: Monitor for discussions or posts made by threat actors. Look for suspicious accounts or groups.
+
+Pastebin: Search for paste dumps that may contain data stolen by threat actors or communication about cybercrimes.
+
+Dark Web Search Engines (Ahmia, DarkSearch): Monitor the dark web for stolen data, ransom notes, or other indicators of cybercriminal activity.
+
+Hacker Forums (RaidForums, XSS): Look for communications from hacker groups, tool releases, or leaks.
+
+GitHub & GitLab: Monitor repositories for code or tools used by threat actors, such as malware, exploit kits, or hacking tools.
+
+Step 6: Monitor and Track Attack Campaigns
+
+Keep track of ongoing cyberattack campaigns, including the techniques and tools used by attackers, the targeted industries, and any publicly available reports.
+
+Threat Intelligence Platforms (Anomali, ThreatCrowd): Use platforms that aggregate information about known cyber threats, attack indicators, and malicious activity.
+
+MISP (Malware Information Sharing Platform): Share and receive indicators of compromise (IoCs) and threat intelligence related to cyber attacks.
+
+FireEye Threat Intelligence: Check for reports detailing specific cyber-attacks and the actors involved, their methods, and targeted organizations.
+
+AlienVault (AT&T Cybersecurity): Collect information from open-source threat intelligence to enhance your analysis of cyber threats.
+
+Step 7: Investigate the Dark Web & Underground Marketplaces
+
+Examine underground markets, hacker communities, and forums that could be associated with cybercrime activity.
+
+Dark Web Search Engines (Ahmia, DarkSearch): Search dark web sites for stolen data, black market transactions, or information about cybercrime tools and services.
+
+Hacker Forums: Look for forums where cybercriminals discuss tactics, tools, and targets.
+
+Step 8: Analyze Digital Forensics and Incident Response Data
+
+For investigations involving cyber attacks or breaches, digital forensics will help identify the origin, method, and impact of an attack.
+
+FTK Imager: Use this for forensic data collection and analysis, including recovering files and examining metadata from compromised systems.
+
+Autopsy: Use this for detailed investigation and analysis of computer systems, including file activity and user behavior.
+
+Volatility: Analyze memory dumps from systems involved in cyber incidents to identify malware or malicious activity.
+
+Step 9: Continuous Monitoring & Alerting
+
+Set up ongoing monitoring and alert systems to track emerging threats and activities continuously.
+
+OpenDXL (McAfee): Use this for real-time monitoring, reporting, and alerting for potential cybersecurity incidents.
+
+OSINT Tools (Social Media Monitoring): Continuously track social media, news, and other sources for indicators of emerging cyber threats.
+
+
+Step 10: Reporting & Actionable Intelligence
+
+Analyze the data gathered from these sources and create a comprehensive report on the findings. This report should include identified vulnerabilities, threats, IoCs, and recommended actions.
+
+Maltego: Use for visualizing and reporting your findings in an easily understandable way. It helps in understanding relationships and linkages.
+
+Sigma Rules: Use Sigma's rules for structured reporting of cyber incidents and relevant indicators.

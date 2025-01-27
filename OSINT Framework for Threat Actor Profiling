@@ -1,0 +1,38 @@
+Objective: Collect data about potential cyber threats, hacker groups, or individuals involved in malicious activities.
+
+Step 1: Monitor Threat-Related Forums & Communities
+
+Dark Web Search Engines: Use dark web search engines to find information related to hacker activity, stolen data, and vulnerabilities.
+
+Public Hacker Forums: Search for leaks, hacker communications, and relevant posts on forums.
+
+Step 2: Search for Breach Data & Leaked Information
+
+Have I Been Pwned: Check if any sensitive emails or data have been exposed in a breach.
+
+Dehashed: Another resource for breached accounts and passwords.
+
+Pastebin: Search for exposed data, passwords, and leak information shared on Pastebin.
+
+Step 3: Analyze IP Address Data & Geolocation
+
+Shodan: Search for exposed devices or infrastructures vulnerable to attacks.
+
+Censys: Analyze IP addresses, certificates, and host information for suspicious activity.
+
+IPinfo.io: Gather geolocation information for IP addresses and identify threat actors’ locations.
+
+GeoIP Tools: Find the physical location of an IP address.
+
+Step 4: Investigate Digital Footprints of Attackers
+
+Social Media Search: Search platforms like Twitter, LinkedIn, GitHub, and Telegram to find hacker profiles, groups, or associations.
+
+Step 5: Review Historical Attack Patterns
+
+VirusTotal: Check if malicious files or domains have been detected.
+
+Malwarebytes: Use it for detection and analysis of malware or suspicious activity related to an attacker.
+
+FireEye Threat Intelligence: Check reports and findings from FireEye to understand attack patterns and techniques.
+

@@ -1,0 +1,31 @@
+Objective: Collect geographic and location-based data to track movements, map out terrain, and identify sensitive sites.
+
+Step 1: Identify Geographic Area of Interest
+
+Google Earth: Analyze satellite imagery and visualize geospatial data.
+
+Google Maps: Use for street-level views and geolocation services.
+
+OpenStreetMap: Open-source mapping platform for accurate geographic data.
+
+Step 2: Analyze Geo-Tagged Social Media Data
+
+Twitter Advanced Search: Search for geo-tagged tweets from specific locations.
+
+Instagram Map Tools: Search geo-tagged Instagram posts by location.
+
+Step 3: Analyze Satellite or Aerial Imagery
+
+Sentinel Hub: Access satellite imagery and analyze specific geographic areas.
+
+Google Earth Engine: Access large-scale geospatial data for analysis.
+
+Pleiades: Use high-resolution satellite imagery for detailed analysis.
+
+Step 4: Review Open-Source Geospatial Data
+
+OpenAerialMap: Use open-source aerial imagery for mapping and monitoring.
+
+GeoFabrik: Download geographic data from OpenStreetMap for further analysis.
+
+USGS Earthquake Map: Use for earthquake-related geospatial intelligence.
